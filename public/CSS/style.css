@@ -1,0 +1,34 @@
+
+body{
+    background: dodgerblue linear-gradient(22deg, aqua, dodgerblue, deeppink) fixed;
+    font-family: "Montserrat";
+    
+}
+.text{
+    font-size: 2.5rem;
+    z-index: 2;
+    text-align: center;
+}
+.input{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn{
+    position: absolute;
+    width: 70px;
+    height: 66px;
+    font-size: 30px;
+    color: rgb(20, 20, 255);
+}
+
+
+
+/*data ejs*/
+
+.container{
+    text-align: center;
+    margin-top: 20%;
+}
